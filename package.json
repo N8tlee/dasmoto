@@ -1,0 +1,24 @@
+{
+  "name": "dasmoto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N8tlee/dasmoto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N8tlee/dasmoto/issues"
+  },
+  "homepage": "https://github.com/N8tlee/dasmoto#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
